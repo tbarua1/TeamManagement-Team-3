@@ -21,7 +21,7 @@
         role:devloped and design backend functionalities of all modules using spring boot.
             
 ##### 2- Seema Kumari:
-            role: managed and tested rest api through postman 
+            role: managed and tested rest api through postman server
 
 ##### 3- Shailesh Yadav:
             role:  Configured and devloped  Database entities  using JPA
